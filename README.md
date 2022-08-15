@@ -19,5 +19,5 @@ To join the program, follow these steps:
 | Akinwole Samuel      | samuealkinwole@gmail.com| SAkinwole    | API, Microservices, Azure, Testing, Caching etc
 | Jonas Ababio         |jonasages@gmail.com    | [mk-milly02](https://github.com/mk-milly02) | Microservices, ASP.NET, Design Patterns   |
 | Jude Omenai          |jdonmarie@gmail.com  | JMario1  | gRpc, testing, caching, DDD |
-| Roland Blessing      |Roland.c.Blessing@gmail.com|Rolyteck |MVC, API Integration, Microservices
+| Roland Blessing      |Roland.c.Blessing@gmail.com|Rolyteck |MVC, API Integration, Microservices,ASP.NET
 > Looking forward to what we accomplished together.
